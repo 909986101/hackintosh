@@ -1,3 +1,3 @@
-Novel
+黑苹果小白白
 
-- [Docs](/Docs/)
+- [Let's go!](/Docs/)
